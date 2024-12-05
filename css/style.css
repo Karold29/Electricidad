@@ -3,6 +3,7 @@
 * Trunk version 2.0.0
 */
 /*
+<<<<<<< HEAD
 
 
 
@@ -33,6 +34,11 @@
 .my-float{
 	margin-top:16px;
 }
+=======
+*
+* Contexts
+*/
+>>>>>>> e18a0397297454442d82488b84c0419807d3a4c2
 a:focus,
 button:focus {
 	outline: none !important;
@@ -126,10 +132,14 @@ html p a:hover {
 * Typography
 */
 body {
-	font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+<<<<<<< HEAD
+=======
+
+font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+>>>>>>> e18a0397297454442d82488b84c0419807d3a4c2
 	font-size: 14px;
 	line-height: 1.71429;
-	font-weight: 500;
+	font-weight: 500
 	letter-spacing: .05em;
 	color: #151515;
 	background-color: #ffffff;
@@ -20074,14 +20084,7 @@ disabled look for disabled choices in the results dropdown
 	display: block;
 }
 
-.stepper input[type="number"] {
-	width: 100%;
-	padding: 10px 42px;
-	font-weight: 500;
-	font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-	text-align: center;
-	-moz-appearance: textfield;
-}
+
 
 .stepper input[type=number]::-webkit-inner-spin-button {
 	-webkit-appearance: none;
