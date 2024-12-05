@@ -127,16 +127,9 @@ html p a:hover {
 	text-decoration: none;
 }
 
-/*
-*
-* Typography
-*/
-body {
-<<<<<<< HEAD
-=======
 
+body {
 font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
->>>>>>> e18a0397297454442d82488b84c0419807d3a4c2
 	font-size: 14px;
 	line-height: 1.71429;
 	font-weight: 500
